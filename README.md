@@ -1,2 +1,2 @@
 # yesman
-My bf's favorite fallout robot
+My favorite fallout robot
