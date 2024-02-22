@@ -72,11 +72,3 @@ Exiting. Watch out for Deathclaws out there. Have a great day!
 ## Contributions
 Contributions to the Yes Man Chatbot project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This documentation provides an overview of the Yes Man Chatbot project, including its features, installation instructions, usage guidelines, file structure, and licensing information. Users can refer to this documentation to understand how to use the chatbot and contribute to its development.
-
-Let me know if you need further assistance!
